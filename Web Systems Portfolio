@@ -1,0 +1,60 @@
+Student Information
+Name: Giane Mariel A. Sanorjo
+Couse & Section: BSIS 2 - A
+Semester 1st Semester
+
+Project Description
+This respository contains my laboratory activities from Week 1 to Week 7 for Web Systems and Technologies
+
+Project Description
+This repository contains my laboratory activities from Week 1 to Week 7 for  Web Systems and Technologies.
+
+The project demonstrates my understanding of:
+- HTML5 structure and semantics
+- CSS styling and layout
+- JavaScript fundamentals
+- DOM manipulation and events
+- Bootstrap responsive design
+- API integration
+- Client-side storage
+
+Personalize Theme
+Project Brand Theme: Giane Web
+Color Scheme Used: Soft Pink, Baby Pink, White, Light Rose/Pink Accents
+Typography Used:
+- Poppins - for hedings and body text
+- Playfair Display - for decorative/brand text
+Design Goal: To create a cute, simple, and user-friendly website with a pink and feminine theme. The design aims to make Giane’s Web look welcoming and organized while providing useful student services in an easy-to-navigate layout.
+
+Weekly Summary
+
+Week 1: HTML Fundamentals
+- I learned how to make the basic structure of a webpage using HTML. I used headings, paragraphs, links, images, and lists.
+Week 2: Semantic & Multimedia
+- I learned how to use different HTML tags to organize a webpage. I also added images to the webpage.
+Week 3: CSS Basics
+- I learned how to use CSS to make my webpage look better. I added colors,fonts, spacing, bo9rders, and background.
+Week 4: JavaScript Basics and DOM Manipulation 
+- I learned how to use JavaScript to make my webpage iteractive. I practiced using variables, functions, buttons, and changig webpage content.
+Week 5: JavaScript Functions and Bootstrap
+- I learned more about JavaScript functions and how to use Bootstraps. I used Bootstrap to make my webpage more organized and responsive.
+Week 6: API & Client Storage
+- I learned how to get data from an API and use it on my webpage. I also learned how to save data using Local Storage.
+Week 7: MiniFullStackStarter
+- I created a simple full-stack system using the skills I learned from the previous weeks. I worked with the frontend, backend, API, and database.
+
+URL of the Love Render Link:
+- https://week7-fullstackstarter-lab-bl7e.onrender.com
+
+Tools used:
+- HTML5: Used to create the structure and content of the website.
+- CSS: Used for styling, colors, layout, hover effects, and responsive design.
+- JavaScript: Used for interactive buttons, search interaction, and other webpage functions.
+- Bootstrap: Used for the responsive navbar, carousel, cards, buttons, and grid layout.
+- Google Fonts (Poppins): Used for the website typography.
+- Visual Studio Code: Used for the website typography.
+- GitHub: Used to store and manage the project repository.
+- Render: Used to deploy and view the website online.
+
+Notes
+- This project was developed as part of the Midterm Laboratory Requirement
